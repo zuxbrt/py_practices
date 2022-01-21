@@ -21,3 +21,4 @@ Collection of python exercises taken from [https://www.practicepython.org/](http
 14. [List Remove Duplicates](https://github.com/zuxbrt/py_practices/blob/master/14.py)
 15. [Reverse Word Order](https://github.com/zuxbrt/py_practices/blob/master/15.py)
 16. [Password Generator](https://github.com/zuxbrt/py_practices/blob/master/16.py)
+17. [Decode A Web Page](https://github.com/zuxbrt/py_practices/blob/master/17.py)
