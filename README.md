@@ -16,3 +16,8 @@ Collection of python exercises taken from [https://www.practicepython.org/](http
 9.  [Guessing Game One](https://github.com/zuxbrt/py_practices/blob/master/09.py)
 10. [List Overlap Comprehensions](https://github.com/zuxbrt/py_practices/blob/master/10.py)
 11. [Check Primality Functions](https://github.com/zuxbrt/py_practices/blob/master/11.py)
+12. [List ends](https://github.com/zuxbrt/py_practices/blob/master/12.py)
+13. [Fibonacci](https://github.com/zuxbrt/py_practices/blob/master/13.py)
+14. [List Remove Duplicates](https://github.com/zuxbrt/py_practices/blob/master/14.py)
+15. [Reverse Word Order](https://github.com/zuxbrt/py_practices/blob/master/15.py)
+16. [Password Generator](https://github.com/zuxbrt/py_practices/blob/master/16.py)
