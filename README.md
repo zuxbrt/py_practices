@@ -22,3 +22,5 @@ Collection of python exercises taken from [https://www.practicepython.org/](http
 15. [Reverse Word Order](https://github.com/zuxbrt/py_practices/blob/master/15.py)
 16. [Password Generator](https://github.com/zuxbrt/py_practices/blob/master/16.py)
 17. [Decode A Web Page](https://github.com/zuxbrt/py_practices/blob/master/17.py)
+18. [Cows And Bulls Solutions](https://github.com/zuxbrt/py_practices/blob/master/18.py)
+19. [Decode A Web Page Two](https://github.com/zuxbrt/py_practices/blob/master/19.py)
