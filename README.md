@@ -24,3 +24,8 @@ Collection of python exercises taken from [https://www.practicepython.org/](http
 17. [Decode A Web Page](https://github.com/zuxbrt/py_practices/blob/master/17.py)
 18. [Cows And Bulls Solutions](https://github.com/zuxbrt/py_practices/blob/master/18.py)
 19. [Decode A Web Page Two](https://github.com/zuxbrt/py_practices/blob/master/19.py)
+20. [Element Search](https://github.com/zuxbrt/py_practices/blob/master/20.py)
+21. [Write To A File](https://github.com/zuxbrt/py_practices/blob/master/21.py)
+22. [Read From File](https://github.com/zuxbrt/py_practices/blob/master/22.py)
+23. [File Overlap](https://github.com/zuxbrt/py_practices/blob/master/23.py)
+24. [Draw A Game Board](https://github.com/zuxbrt/py_practices/blob/master/24.py)
